@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 1.99
+    },
+    {
+      "id": 2,
+      "name": "Notebook MacBook PRO",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "IPhone 11",
+      "price": 5000
+    },
+    {
+      "name": "Geladeira",
+      "price": "4000.99",
+      "id": 5
+    },
+    {
+      "name": "Monitor LG QLED",
+      "price": "7000",
+      "id": 6
+    },
+    {
+      "name": "Produto Teste 1",
+      "price": 125.35,
+      "id": 7
+    },
+    {
+      "name": "Caderno 16 matérias",
+      "price": "39.90",
+      "id": 9
+    }
+  ]
+}
